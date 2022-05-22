@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "566d3f11-6249-469b-a844-401d03054037": {
+      "ProjectGuid": "566d3f11-6249-469b-a844-401d03054037",
+      "DisplayName": "my_strcpy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
